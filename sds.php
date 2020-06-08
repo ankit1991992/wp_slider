@@ -2,11 +2,11 @@
 
 /*
   Plugin Name: Simple Dynamic Slider
-  Plugin URI:  http://www.wordpress.com
+  Plugin URI:  http://xcodeweb.com
   Description: Simple Dynamic Slider
   Version:     1.5
-  Author:      Author_Demo
-  Author URI:  http://www.google.com
+  Author:      XcodeWeb
+  Author URI:  http://xcodeweb.com
   License:     GPL2
   License URI: http://www.google.com
   Domain Path: /languages
